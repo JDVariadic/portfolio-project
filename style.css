@@ -83,7 +83,6 @@ li:not(:first-child) {
 }
 
 .about-flex-element {
-  border: 1px solid black;
   padding: 70px;
   flex: 1;
 }
